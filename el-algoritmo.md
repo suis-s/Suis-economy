@@ -1,14 +1,13 @@
-# Quien valorará qué
+# Unicamente lo que el ser humano valoró sobrevivió. De aqui en adelante, quien valorará qué?
 
 ## Optimalidad actual
-#### 0.0.1
+#### 0.0.1
 La optimalidad actual con la informacion disponible de CommonCrawl es superior a la de Linkedin Ads e inferior a la de Google, dado que el acceso es a los datos de todas las paginas web en el mundo, por lo cual, tenemos conocimiento del 99% de las empreas en el mundo, salvo el 1% que no dispone de web. 
 
-Linkedin dispone del conocimiento de 58 millones de empresas.
-CommonCrawl dispone del conocimiento de 150 millones de empresas.
+- Linkedin dispone del conocimiento de 58 millones de empresas.
+- CommonCrawl dispone del conocimiento de 150 millones de empresas.
 
--- Como podemos capitalizar 1 dolar por cada una?
->> Esa es la potencial produccion del algoritmo en esta versión: U$S 150.000.000, que luego se utilizan para nuevos movimientos, por lo que crecerá de forma exponencial, estable y predecible. 
+Como podemos capitalizar 1 dolar por cada una? Esa es la potencial produccion del algoritmo en esta versión: U$S 150.000.000, que luego se utilizan para nuevos movimientos, por lo que crecerá de forma exponencial, estable y predecible. 
 
 Alcanzar esta versión de optimalidad del algoritmo me dará:
 - Posibilidad de dar muestras de información de todos quienes probablemente comprarán X.
