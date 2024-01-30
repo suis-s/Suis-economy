@@ -1,9 +1,20 @@
 # Quien valorará qué
 
 ## Optimalidad actual
-- La optimalidad actual con la informacion disponible de CommonCrawl es superior a la de Linkedin Ads e inferior a la de Google, dado que el acceso es a los datos de todas las paginas web en el mundo, por lo cual, tenemos conocimiento del 99% de las empreas en el mundo, salvo el 1% que no dispone de web. 
-- Una vez acceda a informacion de consumidores finales en LiveRamp o WPP, ahi la optimalidad del algoritmo asciende a posicionarse mas cerca de la optimalidad de Google y Facebook: miles de millones de dolares. 
+#### 0.0.1
+La optimalidad actual con la informacion disponible de CommonCrawl es superior a la de Linkedin Ads e inferior a la de Google, dado que el acceso es a los datos de todas las paginas web en el mundo, por lo cual, tenemos conocimiento del 99% de las empreas en el mundo, salvo el 1% que no dispone de web. 
 
+Alcanzar esta versión de optimalidad del algoritmo me dará:
+- Posibilidad de dar muestras de información de todos quienes probablemente comprarán X.
+- Seguridad de que una vez me pidan, puedo entregar la informacion y cobrarla inmediatamente.
+- Dar la información en gotas, facilitando el inicio de la relacion de intercambio.
+- Usar yo mismo la informacion y con ello dar muestra de la rentabilidad de la misma.
+- Obtener los recursos con los que optimizar a la siguiente version en la que accedo a la informacion de consumidores finales.
+
+#### 0.0.2 
+Una vez acceda a informacion de consumidores finales en LiveRamp o WPP, ahi la optimalidad del algoritmo asciende a posicionarse mas cerca de la optimalidad de Google y Facebook: miles de millones de dolares. 
+
+---------------------------------
 # Algoritmo actual
 Para clasificar todas las páginas web según su contenido y luego ejecutar búsquedas sobre esos atributos en AWS, puedes seguir un enfoque que involucre varias etapas, desde la extracción y clasificación de datos hasta la implementación de un motor de búsqueda. Aquí te dejo un posible flujo de trabajo utilizando varios servicios de AWS:
 
